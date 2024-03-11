@@ -1,0 +1,10 @@
+warp://162.159.192.52:8742/?ifp=1-5#warp-ir&&detour=warp://162.159.192.52:8742/?ifp=1-5#warp-main
+warp://188.114.97.161:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.97.161:8742/?ifp=1-5#warp-main
+warp://188.114.97.161:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.97.161:8742/?ifp=1-5#warp-main
+warp://188.114.96.247:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.96.247:8742/?ifp=1-5#warp-main
+warp://162.159.195.211:8742/?ifp=1-5#warp-ir&&detour=warp://162.159.195.211:8742/?ifp=1-5#warp-main
+warp://188.114.99.210:1843/?ifp=1-5#warp-ir&&detour=warp://188.114.99.210:1843/?ifp=1-5#warp-main
+warp://188.114.99.81:1843/?ifp=1-5#warp-ir&&detour=warp://188.114.99.81:1843/?ifp=1-5#warp-main
+warp://188.114.99.185:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.99.185:8742/?ifp=1-5#warp-main
+warp://188.114.99.106:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.99.106:8742/?ifp=1-5#warp-main
+warp://188.114.98.226:8742/?ifp=1-5#warp-ir&&detour=warp://188.114.98.226:8742/?ifp=1-5#warp-main
